@@ -1,0 +1,8 @@
+﻿CREATE PROCEDURE [dbo].[GetUserByID]
+	@ID INT
+AS
+BEGIN
+	SELECT ID, FirstName, LastName
+	FROM Users
+	WHERE ID = @ID
+END

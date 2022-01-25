@@ -1,0 +1,10 @@
+D:\Learn\.NET Core\MinimalAPIDemo\UserDatabase\bin\Debug\UserDatabase.dacpac
+D:\Learn\.NET Core\MinimalAPIDemo\UserDatabase\bin\Debug\UserDatabase.dll
+D:\Learn\.NET Core\MinimalAPIDemo\UserDatabase\bin\Debug\UserDatabase.pdb
+D:\Learn\.NET Core\MinimalAPIDemo\UserDatabase\obj\Debug\UserDatabase.sqlproj.AssemblyReference.cache
+D:\Learn\.NET Core\MinimalAPIDemo\UserDatabase\obj\Debug\UserDatabase.dll
+D:\Learn\.NET Core\MinimalAPIDemo\UserDatabase\obj\Debug\UserDatabase.pdb
+D:\Learn\.NET Core\MinimalAPIDemo\UserDatabase\obj\Debug\Model.xml
+D:\Learn\.NET Core\MinimalAPIDemo\UserDatabase\obj\Debug\refactor.xml
+D:\Learn\.NET Core\MinimalAPIDemo\UserDatabase\obj\Debug\postdeploy.sql
+D:\Learn\.NET Core\MinimalAPIDemo\UserDatabase\obj\Debug\predeploy.sql
